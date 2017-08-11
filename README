@@ -1,0 +1,8 @@
+Some scripts of mine used in daily adm work
+
+check_elastic_cluster_status.sh - checkin ES status for zabbix
+zab_ops.py - command line tool for interacting with zabbix
+add_host_to_zabbix_ver1.py - mod of the zab_ops.py script to add host to zabbix
+zabbix.rb - simple Chef recipie for adding new host to zabbix, can be included in cookbook
+atributes_file.rb - atributes file for zabbix.rb
+zabbix_agentd.conf.erb - template for zabbix agent for zabbix.rb
