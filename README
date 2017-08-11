@@ -1,4 +1,7 @@
-Some scripts of mine used in daily adm work
+Some files of mine used in daily adm work
+
+WORK IN PROGRESS. FILES ARE JUST AN EXAMPLES. USE AT YOUR OWN RISK.
+
 
 check_elastic_cluster_status.sh - checkin ES status for zabbix
 zab_ops.py - command line tool for interacting with zabbix
